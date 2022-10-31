@@ -3,6 +3,9 @@
 - Laravel 9
 - MySQL 8.0
 
+## Duration
+- 1,56h
+
 ## Setup Project
 ```bash
 ./vendor/bin/sail up -d
