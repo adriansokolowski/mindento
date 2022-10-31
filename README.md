@@ -1,6 +1,7 @@
-## STACK
+## Stack
 - PHP 8.1
 - Laravel 9
+- MySQL 8.0
 
 ## Setup Project
 ```bash
